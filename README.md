@@ -1,20 +1,18 @@
 # React Native Videà Sharing App Using Expo NativeWind Animatable and Appwrite for backend
 
-<div align="center">
   <h3 align="center"> 📸 Screenshot</h3>
-  ![appwrite page](1.png)
-  ![appwrite page](2.png)
-  ![appwrite](3.png)
-  ![appwrite](4.png)
-  ![seach-page](001.png)
-  ![login-succes-page](000.png)
-  ![SrollListView-page](0000.png)
-  ![app](02.png)
-  ![upload screen](03.png)
-  ![app](01.png)
-  ![seach-apge](012.png)
-
-</div>
+  
+  ![appwrite page](/1.png)
+  ![appwrite page](/2.png)
+  ![appwrite](/3.png)
+  ![appwrite](/4.png)
+  ![seach-page](/001.png)
+  ![login-succes-page](/000.png)
+  ![SrollListView-page](/0000.png)
+  ![app](/02.png)
+  ![upload screen](/03.png)
+  ![app](/)
+  ![seach-apge](/012.png)
 
 <div align="center">
   <h3 align="center">Video Sharing App</h3>
