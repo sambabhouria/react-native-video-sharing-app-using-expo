@@ -40,6 +40,7 @@ const Create = () => {
                 })
             }
         } else {
+            // eslint-disable-next-line no-undef
             setTimeout(() => {
                 Alert.alert('Document picked', JSON.stringify(result, null, 2))
             }, 100)
