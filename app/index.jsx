@@ -30,7 +30,8 @@ const Welcome = () => {
                     <View className="relative mt-5">
                         <Text className="text-3xl text-white font-bold text-center">
                             Discover Endless{'\n'}
-                            Possibilities with <Text className="text-secondary-200">Aora</Text>
+                            Possibilities with{' '}
+                            <Text className="text-secondary-200">Sharing Video app </Text>
                         </Text>
 
                         <Image
