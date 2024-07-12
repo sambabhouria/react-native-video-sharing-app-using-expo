@@ -10,6 +10,8 @@ import useAppwrite from '../../lib/useAppwrite'
 const Home = () => {
     const { data: posts, refetch } = useAppwrite(getAllPosts)
     const { data: latestPosts } = useAppwrite(getLatestPosts)
+    const isHermes = () => !!global.HermesInternal
+    console.log('🚀 ~ Home ~ isHermes:', isHermes())
 
     const [refreshing, setRefreshing] = useState(false)
 
